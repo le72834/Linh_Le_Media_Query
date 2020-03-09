@@ -7,13 +7,13 @@ body {
   display: flex;
   flex-direction: row;
   max-width: 1200px;
+  color: white;
+
 
 }
 .logo {
   text-align: center;
   border-radius: 10px;
-  color: white;
-  background-color: #4fc3f7;
   padding: 20px;
   margin: 10px;
   width: 100%;
@@ -21,8 +21,6 @@ body {
 .nav {
   text-align: center;
   border-radius: 10px;
-  color: white;
-  background-color: #4fc3f7;
   padding: 20px;
   margin: 10px;
   width: 100%;
@@ -31,8 +29,6 @@ body {
 .product {
   text-align: center;
   border-radius: 10px;
-  color: white;
-  background-color: #4fc3f7;
   padding: 20px;
   margin: 10px;
   width: 100%;
@@ -41,8 +37,6 @@ body {
 .box {
   text-align: center;
   border-radius: 10px;
-  color: white;
-  background-color: #4fc3f7;
   padding: 20px;
   margin: 10px;
   width: 100%;
